@@ -17,7 +17,7 @@ This football data analysis project aims to analyze the performance and characte
 
 ![dashboard](Football Data Set.PNG)
 
-![Football Data set](https://github.com/DamiData/Football-Performance-Analytics/assets/161587504/27918c98-cb4e-4ee8-8181-413ab8ac9fbf)
+![Football Data set](https://github.com/DamiData/Football-Performance-Analytics/assets/161587504/a488e75d-748f-4a17-9a0c-7eca1af42ba3)
 
 
 ### Data Source 
