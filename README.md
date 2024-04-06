@@ -66,7 +66,7 @@ The Analysis results are summarized as follows:
 
  - The Top 5 Players Value Has the sum value of the players from the lowests range to highest Real Madrid was seen to be the highest club players with the highest value.
  - The Potential Growth of the players were carried out to result to the Average overall rating, Total Value ,Total Wage.
- - The PLayers Foot Preferences Varies in Percentage of 77% - 23%.
+ - The Players Foot Preferences Varies in Percentage of 77% - 23%.
 
 ### Recommendations
 
