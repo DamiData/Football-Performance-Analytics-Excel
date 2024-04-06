@@ -13,6 +13,8 @@
 
 ### Project overview
 
+---
+
 This football data analysis project aims to analyze the performance and characteristics of football players, The dataset provides a comprehensive view of player statistics, allowing for in-depth analysis and insights into player performance and trends.
 
 ![dashboard](Football Data Set.PNG)
@@ -70,7 +72,10 @@ The Analysis results are summarized as follows:
 
 Based on the Analysis ,we recommend this actions:
 - Team Composition based on analysis factors like age, nationality, and preferred foot should be Adjusted to achieve a balanced and competitive squad.
+
   
+  
+
 
 
    
