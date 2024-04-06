@@ -1,5 +1,16 @@
 # Players Statistics Analysis
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Recommendations](#recommendations)
+- [Data Source](#data-source)
+- [tool](#tool)
+- [Data Cleaning/Preparation](#data-cleaningpreparation)
+- [Results/Findings](#resultsfindings)
+
+  
+
 ### Project overview
 
 This football data analysis project aims to analyze the performance and characteristics of football players, The dataset provides a comprehensive view of player statistics, allowing for in-depth analysis and insights into player performance and trends.
@@ -8,7 +19,7 @@ This football data analysis project aims to analyze the performance and characte
 
 Football Data:The primary dataset used for this analysis is the "Football_data.xlsx" files, containing detailed information about football data such as player statistics, jersery number, and team information.
 
-### Tools
+### Tool
 
 - Excel - Data Cleaning and Data Visualization
   - [Download here](https:microsoft.com)
